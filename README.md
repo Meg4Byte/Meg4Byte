@@ -108,6 +108,7 @@
 <details> 
   <summary><h2>🛠️ Projects</h2></summary>
 
+  <!--
   ### Recent Projects
 
   1. **Project Name 1**
@@ -121,34 +122,34 @@
   3. **Project Name 3**
      - Description: Brief description of the project.
      - Link: [Repository](https://github.com/your-username/project-3) / [Live Demo](https://example.com)
-
+  -->
   ### Top Projects
 
   1. Ball Balancing on a Beam 
      - Description: Goal of the project is to balance a ball on a beam using PID regulator 
      - Link: [Repository](https://github.com/Meg4Byte/Ball-Balancing-Seesaw.git) 
 
+  2. Raspberry Pi Tank 
+     - Description: Wifi/Bluetooth controlled tank implemented with raspberry pi 
+     - Link: [Repository](https://github.com/Meg4Byte/Rasp-Pi-Tank.git)
+    
   2. **Top Project 2**
      - Description: Detailed description of the project and its significance.
      - Link: [Repository](https://github.com/your-username/top-project-2) / [Live Demo](https://example.com)
 
-  3. Raspberry Pi Tank
-     - Description: Wifi/Bluetooth controlled tank implemented with raspberry pi 
-     - Link: [Repository](https://github.com/Meg4Byte/Rasp-Pi-Tank.git) 
-
   ### Projects I Am Working On
 
-  1. **Future Project 1**
-     - Description: Brief description of the project.
-     - Link: [Repository](https://github.com/your-username/future-project-1) / [Live Demo](https://example.com)
+  1. Inverted Pendulum  
+     - Description: Controlling inverted pendulum in the upright position   
+     - Link: [Repository](https://github.com/Meg4Byte/Inverted-Pendulum.git) 
 
-  2. **Future Project 2**
-     - Description: Brief description of the project.
-     - Link: [Repository](https://github.com/your-username/future-project-2) / [Live Demo](https://example.com)
+  2. Ball on a Plane 
+     - Description: Balancing a ball on a plane , uisng raspberry pi , openCV and Kalman filter.
+     - Link: [Repository](https://github.com/Meg4Byte/Ball-on-a-Plane)  
 
-  3. **Future Project 3**
-     - Description: Brief description of the project.
-     - Link: [Repository](https://github.com/your-username/future-project-3) / [Live Demo](https://example.com)
+  3. Car System with FreeRTOS
+     - Description: Controlling opening and closing of the windows in a car depending on the velocity of the vehicle.
+     - Link: [Repository](https://github.com/Meg4Byte/Autoelektronika) 
 
 </details>
 
