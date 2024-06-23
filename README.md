@@ -133,7 +133,7 @@
      - Link: [Repository](https://github.com/your-username/top-project-2) / [Live Demo](https://example.com)
 
   3. Raspberry Pi Tank
-     - Description: Brief description of the project.
+     - Description: Wifi/Bluetooth controlled tank implemented with raspberry pi 
      - Link: [Repository](https://github.com/Meg4Byte/Rasp-Pi-Tank.git) 
 
   ### Projects I Am Working On
