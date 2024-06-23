@@ -124,9 +124,9 @@
 
   ### Top Projects
 
-  1. **Top Project 1**
-     - Description: Detailed description of the project and its significance.
-     - Link: [Repository](https://github.com/your-username/top-project-1) / [Live Demo](https://example.com)
+  1. Ball Balancing on a Beam 
+     - Description: Goal of the project is to balance a ball on a beam using PID regulator 
+     - Link: [Repository](https://github.com/Meg4Byte/Ball-Balancing-Seesaw.git) 
 
   2. **Top Project 2**
      - Description: Detailed description of the project and its significance.
