@@ -114,9 +114,9 @@
      - Description: Brief description of the project.
      - Link: [Repository](https://github.com/your-username/project-1) / [Live Demo](https://example.com)
 
-  2. **Project Name 2**
+  2. Raspberry Pi Tank
      - Description: Brief description of the project.
-     - Link: [Repository](https://github.com/your-username/project-2) / [Live Demo](https://example.com)
+     - Link: [Repository](https://github.com/Meg4Byte/Rasp-Pi-Tank.git) 
 
   3. **Project Name 3**
      - Description: Brief description of the project.
