@@ -3,12 +3,11 @@
 
 
 
-
-<p align="center">
-  
-  ![final_logo](https://github.com/Meg4Byte/Meg4Byte/assets/121357383/601c152c-d62f-4fde-b49d-7992a9e45cad)
-
+ <p align="center">
+  <img src="https://github.com/Meg4Byte/Meg4Byte/assets/121357383/351de541-fe65-4f4f-acf3-b661c7df0bd3" >
 </p>
+
+
 
 
 
