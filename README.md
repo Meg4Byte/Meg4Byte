@@ -53,7 +53,7 @@
 <details> 
 
   <summary><h2>📚 About me </h2></summary>
-  Something is not right here
+My name is N. I'm an electrical engineer, mathematician, technology enthusiast, passionate coder, and literature lover. Throughout my electronics studies, I've continuously explored computers and various programming languages, ranging from low-level assembly and C to high-level Python. Currently completing my studies, I am driven by an insatiable thirst for knowledge and aim to secure a job in one of my fields of passion. Looking forward, I am also eager to continue my academic journey with master's studies after obtaining my bachelor's degree. I am deeply committed to my work and engage in multiple projects, spanning hardware and software, both analog and digital. 
 
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
