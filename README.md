@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is N and I'm a mathematician , digital craftsman , engineer , welcome to my page </h2>
+<h2 align="left">Welcome to my page.My name is N , however on the web my alias is   </h2>
 
 
                        __       __                      __    __  _______               __               
@@ -14,8 +14,15 @@
                                              $$    $$/                     $$    $$/                     
                                               $$$$$$/                       $$$$$$/                      
 
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;Experienced%20UI%2FUX%20Designer;10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+</p>
 
-###
+
+
+## 🔧 Languages and Tools 
 
 <div align="left">
   <img src="https://cdn.simpleicons.org/python/3776AB" height="37" alt="python logo"  />
@@ -51,35 +58,110 @@
   <img src="https://cdn.simpleicons.org/git/F05032" height="37" alt="git logo"  />
 </div>
 
-###
 
-<img align="left" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTVrZzJpcDhqMHNiOTUzZ2V3d3Nra29hMW85cjczZHJ1aGh0YXY5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JKsDwwPfXJkyUeUc8V/giphy.webp"  />
+<details> 
 
-###
+  <summary><h2>📚 About me </h2></summary>
+  Something is not right here
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Meg4Byte&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Meg4Byte&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false" height="150" alt="languages graph"  />
-</div>
+  <!-- https://github.com/jamesgeorge007/github-activity-readme -->
+  <!--START_SECTION:activity-->
 
-###
 
-<br clear="both">
+<!--END_SECTION:activity-->
 
-<img src="https://raw.githubusercontent.com/Meg4Byte/Meg4Byte/output/snake.svg" alt="Snake animation" />
+</details>
 
 ###
 
-<div align="left">
-</div>
 
-###
+<details> 
+  <summary><h2>📊 Activity and Progress</h2></summary>
 
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
+  <h3>🔥 Streak Stats</h3>
 
-###
+  <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+  <p align="center">
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+      <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Meg4Byte's streak" src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=Meg4Byte&theme=monokai-metallian&hide_border=true"/>
+    </a>
+    <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
+  </p>
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/Meg4Byte)
+  <h3>💻 GitHub Profile Stats</h3>
+
+  <!-- https://github.com/anuraghazra/github-readme-stats -->
+
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Meg4Byte's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Meg4Byte&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Meg4Byte's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Meg4Byte&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <br/>
+
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+  <h3>🧮 LeetCode Stats</h3>
+
+  <!-- LeetCode Stats -->
+  <p align="center">
+    <img alt="Meg4Byte's LeetCode Stats" src="https://leetcard.jacoblin.cool/Meg4Byte?ext=heatmap"/>
+  </p>
+
+  <b>Note:</b> While it is good to have problem-solving skills and apply data structures and algorithms to solve problems on LeetCode, it is also worth doing as many projects as you can.
+  
+  <!-- https://github.com/jamesgeorge007/github-activity-readme -->
+  <!--START_SECTION:activity-->
+  <!--END_SECTION:activity-->
+
+</details>
+
+<details> 
+  <summary><h2>🛠️ Projects</h2></summary>
+
+  ### Recent Projects
+
+  1. **Project Name 1**
+     - Description: Brief description of the project.
+     - Link: [Repository](https://github.com/your-username/project-1) / [Live Demo](https://example.com)
+
+  2. **Project Name 2**
+     - Description: Brief description of the project.
+     - Link: [Repository](https://github.com/your-username/project-2) / [Live Demo](https://example.com)
+
+  3. **Project Name 3**
+     - Description: Brief description of the project.
+     - Link: [Repository](https://github.com/your-username/project-3) / [Live Demo](https://example.com)
+
+  ### Top Projects
+
+  1. **Top Project 1**
+     - Description: Detailed description of the project and its significance.
+     - Link: [Repository](https://github.com/your-username/top-project-1) / [Live Demo](https://example.com)
+
+  2. **Top Project 2**
+     - Description: Detailed description of the project and its significance.
+     - Link: [Repository](https://github.com/your-username/top-project-2) / [Live Demo](https://example.com)
+
+  3. **Top Project 3**
+     - Description: Detailed description of the project and its significance.
+     - Link: [Repository](https://github.com/your-username/top-project-3) / [Live Demo](https://example.com)
+
+  ### Projects I Am Working On
+
+  1. **Future Project 1**
+     - Description: Brief description of the project.
+     - Link: [Repository](https://github.com/your-username/future-project-1) / [Live Demo](https://example.com)
+
+  2. **Future Project 2**
+     - Description: Brief description of the project.
+     - Link: [Repository](https://github.com/your-username/future-project-2) / [Live Demo](https://example.com)
+
+  3. **Future Project 3**
+     - Description: Brief description of the project.
+     - Link: [Repository](https://github.com/your-username/future-project-3) / [Live Demo](https://example.com)
+
+</details>
+
+
+
+
 
