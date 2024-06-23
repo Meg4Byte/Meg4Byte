@@ -53,7 +53,10 @@
 <details> 
 
   <summary><h2>📚 About me </h2></summary>
-My name is N. I'm an electrical engineer, mathematician, technology enthusiast, passionate coder, and literature lover. Throughout my electronics studies, I've continuously explored computers and various programming languages, ranging from low-level assembly and C to high-level Python. Currently completing my studies, I am driven by an insatiable thirst for knowledge and aim to secure a job in one of my fields of passion. Looking forward, I am also eager to continue my academic journey with master's studies after obtaining my bachelor's degree. I am deeply committed to my work and engage in multiple projects, spanning hardware and software, both analog and digital. 
+My name is N. I'm an electrical engineer, mathematician, technology enthusiast, and passionate coder with a deep love for literature, art, and music. 
+In my free time, I pursue origami and digital art, finding joy in creative expression. I also enjoy spending time in nature, taking long walks, and cycling, which refreshes and inspires me. 
+Throughout my electronics studies, I've explored various programming languages, from low-level assembly and C to high-level Python. Recently, my focus has shifted towards software projects and excelling at Data Structures and Algorithms (DSA). I am deeply committed to my work and engage in multiple projects, spanning hardware and software, both analog and digital. 
+Looking forward, I am also eager to continue my academic journey with master's studies after obtaining my bachelor's degree.
 
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
